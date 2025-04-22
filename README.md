@@ -1,50 +1,34 @@
-# Welcome to your Expo app 👋
+Core App - Aplicación Educativa de Ética y Literatura
+Descripción
+Core App es una aplicación móvil educativa diseñada para estudiantes universitarios que cursan materias relacionadas con ética, filosofía y literatura. Proporciona material de estudio interactivo sobre conceptos fundamentales como bienes humanos básicos, felicidad, hábitos y virtudes cardinales, así como análisis literarios de obras clásicas desde perspectivas éticas.
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Características Principales
+Temas Conceptuales: Explora conceptos fundamentales a través de:
 
-## Get started
+Flashcards interactivas con preguntas y respuestas
+Cuestionarios para evaluar tu comprensión
+Descripciones detalladas de cada tema
+Análisis Literario: Profundiza en clásicos de la literatura como:
 
-1. Install dependencies
+"Crimen y Castigo" de Fiódor Dostoyevski
+"Matar un Ruiseñor" de Harper Lee
+"El Señor de los Anillos" de J.R.R. Tolkien
+Perspectivas de Análisis: Cada obra literaria se analiza desde cuatro dimensiones:
 
-   ```bash
-   npm install
-   ```
+Bienes humanos básicos
+Felicidad
+Hábitos
+Virtudes cardinales
+Sección de Comentarios: Comparte tus reflexiones y lee opiniones de otros estudiantes sobre cada obra.
 
-2. Start the app
-
-   ```bash
-    npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Tecnologías Utilizadas
+React Native
+Expo
+TypeScript
+Expo Router
+Contexto de React para gestión de estado
+Estructura del Proyecto
+Requisitos Previos
+Node.js (v16 o superior)
+npm o Yarn
+Expo CLI
