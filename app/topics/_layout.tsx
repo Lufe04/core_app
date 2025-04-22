@@ -6,9 +6,10 @@ export default function RootLayout() {
       <Stack
         screenOptions={{ headerShown: false }} 
       >
-        <Stack.Screen name="index"/>
-        <Stack.Screen name="books"/>
-        <Stack.Screen name="topics"/>
+        <Stack.Screen name="bieneBasicos"/>
+        <Stack.Screen name="habitos"/>
+        <Stack.Screen name="felicidad"/>
+        <Stack.Screen name="virtudesCardinales"/>
       </Stack>
   )
 }
